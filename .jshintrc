@@ -1,0 +1,9 @@
+{
+    "laxcomma": true,
+    "laxbreak": true,
+    "browser": true,
+    "globals": {
+        "define": true,
+        "jQuery": true
+    }
+}
