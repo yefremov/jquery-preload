@@ -11,7 +11,7 @@ Plugin has AMD (Asynchronous Module Definition) support.
 $( 'figure' ).preload();
 
 // Preload images from array
-$.preload( ['www.example.com/image.jpg', 'www.example.com/picture.png'] );
+$.preload([ 'www.example.com/image.jpg', 'www.example.com/picture.png' ]);
 ```
 
 ## License
